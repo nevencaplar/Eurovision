@@ -1,0 +1,5 @@
+CityFromCountry100 = {{"is", "reykjavik", "Reykjav\[IAcute]k", 10, 113907, 
+      64.15, -21.95}, {"is", "kopavogur", "K\[OAcute]pavogur", 10, 26157, 
+      64.1, -21.916667}, {"is", "akureyri", "Akureyri", 9, 16563, 65.666667, 
+      -18.1}}
+CityFromCountry100 = Select[]

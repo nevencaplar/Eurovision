@@ -1,0 +1,17 @@
+CityFromCountry100 = {{"si", "ljubljana", "Ljubljana", 4, 255115, 46.0552778, 
+      14.5144444}, {"si", "maribor", "Maribor", 9, 89056, 46.5547222, 
+      15.6466667}, {"si", "celje", "Celje", 9, 37115, 46.2361111, 15.2675}, 
+     {"si", "kranj", "Kranj", 4, 34950, 46.2411111, 14.3616667}, 
+     {"si", "velenje", "Velenje", 9, 26426, 46.3591667, 15.1102778}, 
+     {"si", "koper", "Koper", 4, 23273, 45.5469444, 13.7294444}, 
+     {"si", "novo mesto", "Novo Mesto", 4, 22417, 45.7925, 15.1647222}, 
+     {"si", "ptuj", "Ptuj", 9, 18141, 46.4213889, 15.8697222}, 
+     {"si", "trbovlje", "Trbovlje", 9, 15993, 46.155, 15.0533333}, 
+     {"si", "nova gorica", "Nova Gorica", 4, 12748, 45.9613889, 13.6436111}, 
+     {"si", "kamnik", "Kamnik", 4, 12584, 46.2197222, 14.6094444}, 
+     {"si", "jesenice", "Jesenice", 4, 12511, 46.4305556, 14.0669444}, 
+     {"si", "murska sobota", "Murska Sobota", 9, 12412, 46.6625, 16.1663889}, 
+     {"si", "skofja loka", "Skofja Loka", 4, 12013, 46.1672222, 14.3088889}, 
+     {"si", "domzale", "Domzale", 4, 11647, 46.1380556, 14.5977778}, 
+     {"si", "izola", "Izola", 4, 10355, 45.5369444, 13.6619444}}
+CityFromCountry100 = Select[]

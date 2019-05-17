@@ -1,0 +1,16 @@
+CityFromCountry100 = {{"ee", "tallinn", "Tallinn", 1, 394023, 59.4338889, 
+      24.7280556}, {"ee", "tartu", "Tartu", 18, 101092, 58.3661111, 
+      26.7361111}, {"ee", "narva", "Narva", 3, 66980, 59.3772222, 
+      28.1902778}, {"ee", "kohtla-jarve", "Kohtla-J\[ADoubleDot]rve", 3, 
+      46060, 59.3986111, 27.2730556}, {"ee", "parnu", "P\[ADoubleDot]rnu", 
+      11, 44193, 58.3747222, 24.5136111}, {"ee", "viljandi", "Viljandi", 20, 
+      20310, 58.3638889, 25.59}, {"ee", "rakvere", "Rakvere", 8, 16736, 
+      59.3463889, 26.3558333}, {"ee", "sillamae", "Sillam\[ADoubleDot]e", 3, 
+      16672, 59.3997222, 27.7547222}, {"ee", "maardu", "Maardu", 1, 16630, 
+      59.4280556, 25.025}, {"ee", "kuressaare", "Kuressaare", 14, 14922, 
+      58.2480556, 22.5038889}, {"ee", "voru", "V\[OTilde]ru", 21, 14630, 
+      57.8338889, 27.0194444}, {"ee", "valga", "Valga", 19, 13946, 
+      57.7744444, 26.0452778}, {"ee", "haapsalu", "Haapsalu", 7, 11805, 
+      58.9430556, 23.5413889}, {"ee", "johvi", "J\[OTilde]hvi", 3, 11469, 
+      59.3591667, 27.4211111}}
+CityFromCountry100 = Select[]

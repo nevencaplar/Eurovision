@@ -1,0 +1,14 @@
+CityFromCountry100 = {{"mn", "ulaanbaatar", "Ulaanbaatar", 20, 844786, 
+      47.9166667, 106.9166667}, {"mn", "erdenet", "Erdenet", 25, 79649, 
+      49.0333333, 104.0833333}, {"mn", "darhan", "Darhan", 11, 72386, 
+      46.6166667, 109.4166667}, {"mn", "ulaangom", "Ulaangom", 19, 28091, 
+      49.9666667, 92.0333333}, {"mn", "hovd", "Hovd", 15, 27929, 44.6666667, 
+      102.1666667}, {"mn", "moron", "M\[ODoubleDot]r\[ODoubleDot]n", 13, 
+      27694, 49.6452778, 100.1544444}, {"mn", "suhbaatar", 
+      "S\[UDoubleDot]hbaatar", 16, 24238, 50.2313889, 106.2077778}, 
+     {"mn", "bulgan", "Bulgan", 21, 17351, 48.8105556, 103.5316667}, 
+     {"mn", "baruun-urt", "Baruun-Urt", 17, 15808, 46.7, 113.2833333}, 
+     {"mn", "mandalgovi", "Mandalgovi", 8, 15433, 45.75, 106.2666667}, 
+     {"mn", "ondorhaan", "\[CapitalODoubleDot]nd\[ODoubleDot]rhaan", 11, 
+      14724, 47.3166667, 110.65}}
+CityFromCountry100 = Select[]

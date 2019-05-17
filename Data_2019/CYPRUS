@@ -1,0 +1,11 @@
+CityFromCountry100 = {{"cy", "lemesos", "Lemesos", 5, 154018, 34.675, 
+      33.0333333}, {"cy", "larnaca", "Larnaca", 3, 48954, 34.9166667, 
+      33.6291667}, {"cy", "gazimagusa", "Gazimagusa", 1, 42532, 35.125, 
+      33.95}, {"cy", "nicosia", "Nicosia", 4, 42342, 35.1666667, 33.3666667}, 
+     {"cy", "pafos", "P\[AAcute]fos", 6, 35966, 34.7666667, 32.4166667}, 
+     {"cy", "girne", "Girne", 2, 26720, 35.3416667, 33.3166667}, 
+     {"cy", "guzelyurt", "G\[UDoubleDot]zelyurt", 4, 14836, 35.1980556, 
+      32.9913889}, {"cy", "aradippou", "Aradippou", 3, 13351, 34.95, 
+      33.5916667}, {"cy", "paralimni", "Paralimni", 1, 11838, 35.0375, 
+      33.9833333}}
+CityFromCountry100 = Select[]
